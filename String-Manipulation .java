@@ -1,5 +1,5 @@
 /** An instance contains static methods for assignment A2 */
-public class A2 {
+public class String_Manipulation {
     /* NOTE: You will have to rely on methods that are declared in class String.
      * Visit docs.oracle.com/javase/7/docs/api/java/lang/String.html, scroll
      * down to the Method Summary, and peruse the available methods.
